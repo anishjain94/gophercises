@@ -1,7 +1,9 @@
 package main
 
-import "gophercises/quiz_game"
+import urlshortner "gophercises/url_shortner"
 
 func main() {
-	quiz_game.Run()
+	// quiz_game.Run()
+
+	urlshortner.Run()
 }
