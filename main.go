@@ -1,9 +1,11 @@
 package main
 
-import urlshortner "gophercises/url_shortner"
+import htmlparser "gophercises/html_parser"
 
 func main() {
 	// quiz_game.Run()
 
-	urlshortner.Run()
+	// urlshortner.Run()
+
+	htmlparser.Run()
 }
